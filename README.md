@@ -14,8 +14,8 @@ I am a Computer Science student exploring different areas of software developmen
 
 ### Recent Projects
 
-* **my-workout-tracker:** A full-stack workout tracking app with user sign-up, login, secure password handling, and a spreadsheet-style page where users can enter lifts, weight, sets, and reps. I am continuing to improve the social page and make the workout entry process easier to use.
+* **[my-workout-tracker](https://github.com/JD0714/my-workout-tracker):** A full-stack workout tracking app with user sign-up, login, secure password handling, and a spreadsheet-style page where users can enter lifts, weight, sets, and reps. I am continuing to improve the social page and make the workout entry process easier to use.
 
-* **portfolio-website:** A personal portfolio website where I share my background, technical interests, projects, and professional links. I am still updating the design and adding more project details as I continue building my skills.
+* **[portfolio-website](https://github.com/JD0714/portfolio-website):** A personal portfolio website where I share my background, technical interests, projects, and professional links. I am still updating the design and adding more project details as I continue building my skills.
 
 * **Other Projects in Progress:** I am also working on a few additional projects, including an AI chatbot and an iClicker bot. These projects are helping me practice problem-solving, automation, and building tools with real-world use cases.
