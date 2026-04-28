@@ -1,15 +1,21 @@
 ## Hi there 👋
 
-I am a Full-Stack Web Developer based in Chicago IL. I am currently studying Computer Science with a Software Engineering concentration at The University of Illinois at Chicago (UIC). I'm currently working building small front-end and full-stack websites to expand my knowledge in Node.js and React.
+I am a Full-Stack Web Developer based in Chicago, IL. I am currently studying Computer Science with a Software Engineering concentration at the University of Illinois Chicago (UIC). I’m building small front-end and full-stack websites to expand my knowledge of React, Node.js, databases, and practical software development.
 
 ### 🛠️ Tech Stack
-**Languages:** C, C++, Python, Java, MySQL
-**Web:** HTML, CSS  
-**Currently Learning:** JavaScript, JSX, React, Node.js
 
-###  About Me
-I'm a sophomore currently exploring different areas of computer science and building projects to strengthen my full-stack skills. I'm actively looking for an **entry-level** or **QA/QC internship** where I can learn about a different area of CS as well as contribute to a company's work.
+**Languages:** C, C++, Python, Java, F#, Go, MySQL  
+**Web:** HTML, CSS, JavaScript, JSX, React, Node.js  
+**Currently Learning:** Full-stack development, WordPress, and software design 
+
+### About Me
+
+I am a Computer Science student exploring different areas of software development and building projects to strengthen my full-stack skills. I am actively looking for an entry-level software development, QA/QC, or IT internship where I can keep learning, contribute to real projects, and gain experience working with a technical team.
 
 ### Recent Projects
-* FunPage : A static page implementing a React framework to make flexible, interactive widgets. Just some practice for future projects using React.
-* myNewRepo : A full-stack page using Node.js to connect a web-hosted database and an interactive website. I'm currently working on a home page for the webstie where I will make a table for each user's workout logs.
+
+* **my-workout-tracker:** A full-stack workout tracking app with user sign-up, login, secure password handling, and a spreadsheet-style page where users can enter lifts, weight, sets, and reps. I am continuing to improve the social page and make the workout entry process easier to use.
+
+* **portfolio-website:** A personal portfolio website where I share my background, technical interests, projects, and professional links. I am still updating the design and adding more project details as I continue building my skills.
+
+* **Other Projects in Progress:** I am also working on a few additional projects, including an AI chatbot and an iClicker bot. These projects are helping me practice problem-solving, automation, and building tools with real-world use cases.
