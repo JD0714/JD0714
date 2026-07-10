@@ -14,10 +14,10 @@ I am a Computer Science student exploring different areas of software developmen
 
 ### Recent Projects
 
+* **[free-ai-api-integration](https://github.com/JD0714/free-ai-api-integration):** A client-server application that simulates AI API integration by routing user prompts through a backend server, which interacts with the ChatGPT web interface and returns the generated response. Designed as a free alternative for developing and testing AI-powered applications before integrating a paid API.
+
 * **[my-workout-tracker](https://github.com/JD0714/my-workout-tracker):** A full-stack workout tracking app with user sign-up, login, secure password handling, and a spreadsheet-style page where users can enter lifts, weight, sets, and reps. I am continuing to improve the social page and make the workout entry process easier to use.
 
 * **[portfolio-website](https://github.com/JD0714/portfolio-website):** A personal portfolio website where I share my background, technical interests, projects, and professional links. I am still updating the design and adding more project details as I continue building my skills.
-
-* **[free-ai-api-integration](https://github.com/JD0714/free-ai-api-integration):** A client-server application that simulates AI API integration by routing user prompts through a backend server, which interacts with the ChatGPT web interface and returns the generated response. Designed as a free alternative for developing and testing AI-powered applications before integrating a paid API.
 
 * **Other Projects in Progress:** I am also working on a few additional projects, including an AI chatbot and an iClicker bot. These projects are helping me practice problem-solving, automation, and building tools with real-world use cases.
