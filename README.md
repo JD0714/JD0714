@@ -18,6 +18,6 @@ I am a Computer Science student exploring different areas of software developmen
 
 * **[portfolio-website](https://github.com/JD0714/portfolio-website):** A personal portfolio website where I share my background, technical interests, projects, and professional links. I am still updating the design and adding more project details as I continue building my skills.
 
-* **[portfolio-website](https://github.com/JD0714/free-ai-api-integration):** A client-server application that simulates AI API integration by routing user prompts through a backend server, which interacts with the ChatGPT web interface and returns the generated response. Designed as a free alternative for developing and testing AI-powered applications before integrating a paid API.
+* **[free-ai-api-integration](https://github.com/JD0714/free-ai-api-integration):** A client-server application that simulates AI API integration by routing user prompts through a backend server, which interacts with the ChatGPT web interface and returns the generated response. Designed as a free alternative for developing and testing AI-powered applications before integrating a paid API.
 
 * **Other Projects in Progress:** I am also working on a few additional projects, including an AI chatbot and an iClicker bot. These projects are helping me practice problem-solving, automation, and building tools with real-world use cases.
